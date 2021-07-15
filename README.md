@@ -29,7 +29,7 @@ Feature Engineering was performed to see if any additional data could be extrate
 Tfidf and count vectorizers are the two vectorizers used for each model and the best one was selected through evaluation.
 The models evaluted in this project are:
 * SVM
-* KNN
+* Logistic Regression
 * Naive Bayes
 
 ## Project status
