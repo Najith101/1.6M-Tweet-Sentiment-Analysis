@@ -24,7 +24,7 @@ The tweets have been annotated (0 = negative, 4 = positive) and they can be used
 
 ## Project Descrition
 
-The [data source](https://www.kaggle.com/kazanova/sentiment140) for the project was taken from kaggle.
+The [dataset](https://www.kaggle.com/kazanova/sentiment140) for the project was taken from kaggle.
 Feature Engineering was performed to see if any additional data could be extrated, which can be used for training the model.
 Tfidf and count vectorizers are the two vectorizers used for each model and the best one was selected through evaluation.
 The models evaluted in this project are:
